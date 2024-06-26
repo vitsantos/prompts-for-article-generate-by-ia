@@ -40,8 +40,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines sobre o tema automação de tarefas com python                                                                                                                                                                                                  |
 | conteúdo | Comporte-se como um escritor de artigos tech especialista em automatizar processos com Python e escreva o artigo atendendo as regras abaixo: • No máximos 5 linhas por blocos de explicação; • Me explique de uma maneira informal, como se fosse uma criança de 10 anos; • Os blocos que serão criados estão abaixo: - Os motivos para escolher python para automação de processos; - Exemplos práticos com código de automação de processos e bibliotecas utilizadas; • Faça um call to action para minhas redes sociais; • Coloque 3 hashtags que façam sentido |
-
-| complemento | dê um exemplo usando a biblioteca pyautogui |
+|  complemento  | Dê um exemplo usando a biblioteca pyautogui                                                                                                                                                                                                  |
 
 
 Lexica.art：
@@ -79,8 +78,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/vitsantos">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-vitsantos27">LinkedIn</a>
+    <a href="www.linkedin.com/in/vitsantos27">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/vitoriaemillysm/">
     Instagram</a>
