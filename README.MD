@@ -39,16 +39,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines sobre o tema automação de tarefas com python                                                                                                                                                                                                  |
-| conteúdo | Comporte-se como um escritor de artigos tech especialista em automatizar processos com Python e escreva o artigo atendendo as regras abaixo:
-
-{REGRAS}
-> No máximos 5 linhas por blocos de explicação
-> Me explique de uma maneira informal, como se fosse uma criança de 10 anos
-> Os blocos que serão criados estão abaixo:
-- Os motivos para escolher python para automação de processos
-- Exemplos práticos com código de automação de processos e bibliotecas utilizadas
-- Faça um call to action para minhas redes sociais
-- Coloque 3 hashtags que façam sentido |
+| conteúdo | Comporte-se como um escritor de artigos tech especialista em automatizar processos com Python e escreva o artigo atendendo as regras abaixo: • No máximos 5 linhas por blocos de explicação; • Me explique de uma maneira informal, como se fosse uma criança de 10 anos; • Os blocos que serão criados estão abaixo: - Os motivos para escolher python para automação de processos; - Exemplos práticos com código de automação de processos e bibliotecas utilizadas; • Faça um call to action para minhas redes sociais; • Coloque 3 hashtags que façam sentido |
 
 | complemento | dê um exemplo usando a biblioteca pyautogui |
 
@@ -82,16 +73,16 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/126416070?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspVitória Emilly<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/vitsantos">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+vitsantos27">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/vitoriaemillysm/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -100,4 +91,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ por [Vitória Emilly](https://github.com/vitsantos)
